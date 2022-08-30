@@ -7,7 +7,7 @@ public class Gryffindor {
     private int transgression;
 
 
-    public Gryffindor(String name, int nobility, int honor, int courage, int magic, int transgression) {
+    public Gryffindor(String name, int nobility, int honor, int courage,int magic, int transgression) {
         this.name = name;
         this.nobility = nobility;
         this.honor = honor;

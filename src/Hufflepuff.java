@@ -57,5 +57,5 @@ public class Hufflepuff {
 
     public void setTransgression(int transgression) {
         this.transgression = transgression;
-    }
+    }//
 }

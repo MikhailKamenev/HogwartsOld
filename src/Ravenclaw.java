@@ -69,5 +69,5 @@ public class Ravenclaw {
 
     public void setTransgression(int transgression) {
         this.transgression = transgression;
-    }
+    }//
 }

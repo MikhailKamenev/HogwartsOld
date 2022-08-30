@@ -20,6 +20,7 @@ public class Slytherin {
         this.magic = magic;
         this. transgression = transgression;
     }
+    //
 
     public String getName() {
         return name;

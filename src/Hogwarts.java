@@ -1,4 +1,4 @@
-public class Hogwarts {
+public class Hogwarts {//
     Slytherin[] sStudents = {
         new Slytherin("Draco Malfoy", 10, 10, 10, 10, 10, 20, 20),
         new Slytherin("Graham Montague", 10, 10, 10, 10, 10, 20, 20),
